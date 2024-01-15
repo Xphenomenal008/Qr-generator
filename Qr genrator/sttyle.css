@@ -1,0 +1,57 @@
+.cointaner{
+    border: 2px solid;
+    height: 70vh;
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30vw;
+    background-color: rgb(8, 1, 12);
+    
+}
+.cointaner input{
+    margin-top: 0px;
+    width: 30vw;
+    height: 5vh;
+    font-size: 18px;
+    padding: 0 10px;
+    border:none;
+    outline: 0;
+    border-radius: 2vh;
+    font-weight: 400;
+}
+H1{
+    color: aliceblue;
+}
+div{
+    display: flex;
+     
+    align-items: center;
+}
+.qrimg{
+   
+    width: 20vw;
+    height:20vh ;
+     
+}
+div #qrimg{
+    margin-top: 20px;
+}
+
+button{
+    font-weight: 400;
+    border:none;
+    outline: 0;
+    border-radius: 2vh;
+    height:4vh ;
+    width: 10vw;
+    margin-top: 20px  
+    
+}
+button:hover{
+    background-color: rgb(62, 67, 71);
+
+}
+.error{
+  background-color: red; 
+    
+}
